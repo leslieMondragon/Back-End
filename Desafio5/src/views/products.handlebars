@@ -1,0 +1,22 @@
+<div>
+    <h3>Productos</h3>
+    <h2>Hola {{user.name}}!</h2>
+    <h4>Type: {{user.isAdmin}}</h4>
+    {{#each products}}
+    <div>
+        <ul>
+            <li>
+                <div>
+                    <p>{{title}}: {{price}}$</p>
+                    <p>Descripción: {{description}}</p>
+                    <p>Categoria: {{category}}</p>
+                    <p>Stock: {{stock}}</p>
+                    <button onclick=addToCart(this) id={{_id}}>Añadir al carrito</button>
+                </div>
+            </li>
+        </ul>
+    </div>
+    {{/each}}
+</div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/js/index.js"></script>
