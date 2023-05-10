@@ -4,109 +4,98 @@
        "description": "Este es un producto prueba",
        "price": 200,
        "thumbnail": "Sin imagen",
-       "code": abc1,
+       "code": 10,
        "stock": 5,
-       "id": 1,
-       "category": "categoria nueva",
-       "status": true
+       "id": 1
     },
     {
        "title": "producto prueba",
        "description": "Este es un producto prueba",
        "price": 300,
        "thumbnail": "Sin imagen",
-       "code": abc2,
+       "code": 11,
        "stock": 10,
-       "id": 2,
-       "category": "categoria nueva",
-       "status": true
+       "id": 2
     },
     {
        "title": "producto prueba",
-       "description": "Este es un producto prueba",
+       "description": "Este es un producto prueba Mark IIC+ John Petrucci",
        "price": 400,
        "thumbnail": "Sin imagen",
-       "code": abc3,
+       "code": 12,
        "stock": 15,
-       "id": 3,
-       "category": "categoria nueva",
-       "status": true
+       "id": 3
     },
     {
        "title": "producto prueba",
        "description": "Este es un producto prueba",
        "price": 500,
        "thumbnail": "Sin imagen",
-       "code": abc4,
+       "code": 13,
        "stock": 20,
-       "id": 4,
-       "category": "categoria nueva",
-       "status": true
+       "id": 4
     },
     {
        "title": "producto prueba",
        "description": "Este es un producto prueba",
        "price": 600,
        "thumbnail": "Sin imagen",
-       "code": abc5,
+       "code": 14,
        "stock": 25,
-       "id": 5,
-       "category": "categoria nueva",
-       "status": true
+       "id": 5
     },
     {
        "title": "producto prueba",
        "description": "Este es un producto prueba",
        "price": 700,
        "thumbnail": "Sin imagen",
-       "code": abc6,
+       "code": 15,
        "stock": 30,
-       "id": 6,
-       "category": "categoria nueva",
-       "status": true
+       "id": 6
     },
     {
        "title": "producto prueba JP",
        "description": "Este es un producto prueba",
        "price": 800,
        "thumbnail": "Sin imagen",
-       "code": abc7,
+       "code": 16,
        "stock": 35,
-       "id": 7,
-       "category": "categoria nueva",
-       "status": true
+       "id": 7
     },
     {
        "title": "producto prueba 24",
        "description": "Este es un producto prueba",
        "price": 900,
        "thumbnail": "Sin imagen",
-       "code": abc8,
+       "code": 17,
        "stock": 40,
-       "id": 8,
-       "category": "categoria nueva",
-       "status": true
+       "id": 8
     },
     {
        "title": "producto prueba",
        "description": "Este es un producto prueba",
        "price": 1000,
        "thumbnail": "Sin imagen",
-       "code": abc9,
+       "code": 18,
        "stock": 45,
-       "id": 9,
-       "category": "categoria nueva",
-       "status": true
+       "id": 9
     },
     {
        "title": "producto prueba D",
        "description": "Este es un producto prueba",
        "price": 1100,
        "thumbnail": "Sin imagen",
-       "code": abc10,
+       "code": 19,
        "stock": 50,
-       "id": 10,
-       "category": "categoria nueva",
-       "status": true
+       "id": 10
+    },
+    {
+       "title": "producto prueba Interface",
+       "description": "Este es un producto prueba",
+       "price": 1200,
+       "thumbnail": "Sin imagen",
+       "code": 20,
+       "stock": 55,
+       "id": 11
     }
  ]
