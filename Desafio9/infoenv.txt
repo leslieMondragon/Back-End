@@ -1,0 +1,11 @@
+Adminitrador y password
+ADMIN_NAME=adminCoder
+ADMIN_PASSWORD=ximPasswordCH
+
+PORT= 8080
+CONNECTION= 'mongodb+srv://Ximena:5OmZ0uyg6sraSd4Q@coder.kcakzry.mongodb.net/?retryWrites=true&w=majority"
+BCRYPTGENSALT= 10
+JWTKEY= "secretCode"
+PERSISTENCE= "MONGO"
+MAILPASSWORD= "ximPasswordCH"
+LOGGER= "PRODUCTION"
