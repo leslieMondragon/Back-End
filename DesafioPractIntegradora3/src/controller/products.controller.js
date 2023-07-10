@@ -92,7 +92,7 @@ export default class ProductController {
             if (req.user.user.role == "admin") newProduct.owner = 'admin';
             if (req.user.user.role == "premium") newProduct.owner = req.user.user.email;
 
-            const result = awaitawait pm.post(newProduct);
+            const result = await pm.post(newProduct);
             res.send({status: "Ok", payload: result});
         } catch(error) {
             next(error);

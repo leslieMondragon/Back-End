@@ -1,4 +1,4 @@
-iimport userManager from "../dao/dbManagers/users.js";
+import userManager from "../dao/dbManagers/users.js";
 import { isValidPassword } from "../utils/utils.js";
 
 const um = new userManager();

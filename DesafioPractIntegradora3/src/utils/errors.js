@@ -19,8 +19,8 @@ export const errorCodes = {
   DATABASE_ERROR: 3,
   MISSING_DATA: 4,
   RENDERING_ERROR: 5,
-  ROUTING_ERROR: 6,
-};
+  ROUTING_ERROR: 6
+}
 
 export class generateErrorInfo {
   static getId(id) {
